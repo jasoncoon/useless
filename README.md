@@ -8,7 +8,7 @@ Since I'm new to using servos, I wanted something that would "just work", so of 
 
 ### Construction ###
 
-I really like the physical construction/layout and "animations" of this (Useless Box by Sally71](https://www.youtube.com/watch?v=tGCW8xftdOA).  I managed to find a [Wooden Recipe Box](http://www.michaels.com/artminds-wooden-recipe-box/10397769.html) at Michaels with similar dimensions.  It seemed large enough to contain all of the electronics, and has a magnet to keep the lid closed instead of a latch like most of their other boxes.
+I really like the physical construction/layout and "animations" of this [Useless Box by Sally71](https://www.youtube.com/watch?v=tGCW8xftdOA).  I managed to find a [Wooden Recipe Box](http://www.michaels.com/artminds-wooden-recipe-box/10397769.html) at Michaels with similar dimensions.  It seemed large enough to contain all of the electronics, and has a magnet to keep the lid closed instead of a latch like most of their other boxes.
 
 ### Software ###
 
